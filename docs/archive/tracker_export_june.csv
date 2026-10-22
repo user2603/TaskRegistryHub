@@ -1,0 +1,11 @@
+task_name,implementor,checklist_score,status
+email-digest,rene,0.82,ready
+file-watcher,tom,0.66,in review
+quota-logger,ada,0.88,ready
+tenant-mapper,ada,0.79,in review
+seed-cleaner,boris,0.80,ready
+cron-visualizer,boris,0.75,in review
+log-clipper,boris,0.60,in review
+metric-sampler,ada,0.55,in progress
+doc-indexer,rene,0.58,in progress
+sprint-reporter,tom,0.49,in progress
